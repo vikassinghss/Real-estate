@@ -1,0 +1,76 @@
+{
+  "List": [
+    {
+      "id": 1,
+      "img": "property-1.jpg",
+      "Price": "$12,345",
+      "name": "Orchard House",
+      "for": "For Rent",
+      "type": "Appartment",
+      "location": "310 3rd Ave, New York, NY 10010, USA",
+      "size": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath"
+    },
+    {
+      "id": 2,
+      "img": "property-2.jpg",
+      "Price": "$12,345",
+      "name": "The Willows - black letterbox.",
+      "for": "For Rent",
+      "type": "Villa",
+      "location": "32 Washington Pl, New York, NY 10003, USA",
+      "size": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath"
+    },
+    {
+      "id": 3,
+      "img": "property-3.jpg",
+      "Price": "$12,345",
+      "name": "Rose Cottage - wood house sign.",
+      "for": "For Sell",
+      "type": "House",
+      "location": "123 Street, New York, USA",
+      "size": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath"
+    },
+    {
+      "id": 4,
+      "img": "property-4.jpg",
+      "Price": "$12,345",
+      "name": " The Coach House",
+      "for": "For Rent",
+      "type": "Appartment",
+      "location": "123 Street, New York, USA",
+      "size": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath"
+    },
+    {
+      "id": 5,
+      "img": "property-5.jpg",
+      "Price": "$12,345",
+      "name": "Sunnyside - slate house sign.",
+      "for": "For Sell",
+      "type": "Home",
+      "location": "110 W 3rd St, New York, NY 10012, USA",
+      "size": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath"
+    },
+    {
+      "id": 6,
+      "img": "property-6.jpg",
+      "Price": "$12,345",
+      "name": "Golden Urban House For Sell",
+      "for": "For Sell",
+      "type": "Shope",
+      "location": "238 1st Ave, New York, NY 10009, USA",
+      "size": "1000 Sqft",
+      "bed": "3 Bed",
+      "bath": "2 Bath"
+    }
+  ]
+}

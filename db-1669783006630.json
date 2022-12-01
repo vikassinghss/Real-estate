@@ -1,0 +1,52 @@
+{
+  "property": [
+    {
+      "id": 1,
+      "name": "Apartment",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-apartment.png"
+    },
+    {
+      "id": 2,
+      "name": "Villa",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-apartment.png"
+    },
+    {
+      "id": 3,
+      "name": "Home",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-villa.png"
+    },
+    {
+      "id": 4,
+      "name": "Office",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-house.png"
+    },
+    {
+      "id": 5,
+      "name": "Building",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-housing.png"
+    },
+    {
+      "id": 6,
+      "name": "Townhouse",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-building.png"
+    },
+    {
+      "id": 7,
+      "name": "Shop",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-condominium.png"
+    },
+    {
+      "id": 8,
+      "name": "Garage",
+      "number": "123 properties",
+      "img": "http://127.0.0.1:3001/assets/img/icon-luxury.png"
+    }
+  ]
+}
